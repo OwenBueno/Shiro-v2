@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+logs/
+shiro
+lavalink
+/lavalink
+./lavalink
+lavalink/application.yml
+
+docker-compose.yml
+Dockerfile
+
+todo
+.DS_Store
